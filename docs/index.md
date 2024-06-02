@@ -4,21 +4,21 @@ layout: home
 
 hero:
   name: "GoTribe"
-  text: "开源的 Go cms 系统。"
-  tagline: My great project tagline
+  text: "强大灵活的开源建站工具"
+  tagline: "为现代网站构建而设计的开源解决方案"
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 快速开始
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: API 文档
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 代码开源
+    details: 基于 Apache License 2.0，完全开源，不限制商业使用。
+  - title: 性能卓越
+    details: 基于 Golang 的高效并发处理能力，GoTribe 能够轻松应对高流量网站的需求。
+  - title: 高度可定制
+    details: 提供丰富的API和主题支持，满足个性化的建站需求。
 ---
