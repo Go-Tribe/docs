@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: 代码开源
-    details: 基于 Apache License 2.0，完全开源，不限制商业使用。
+    details: 基于 MIT 协议，完全开源不限制商业使用。
   - title: 性能卓越
     details: 基于 Golang 的高效并发处理能力，GoTribe 能够轻松应对高流量网站的需求。
   - title: 高度可定制
